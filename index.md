@@ -1,7 +1,7 @@
 # Introducción al lenguaje C
 
 ## Historia
-C es un lenguaje de programación de propósito general originalmente desarrollado por Dennis Ritchie entre 1969 y 1972 en los Laboratorios Bell,​ como evolución del anterior lenguaje B, a su vez basado en BCPL
+El lenguaje de programación C fue diseñado por Dennis Ritchie en los laboratorios Bell para desarrollar nuevas versiones del sistema operativo Unix, allá por el año 1972. De ahí, la fuerte relación entre el C y la máquina.
 
 ## Descripción
 Se trata de un lenguaje de tipos de datos estáticos, débilmente tipificado, de medio nivel, ya que dispone de las estructuras típicas de los lenguajes de alto nivel pero, a su vez, dispone de construcciones del lenguaje que permiten un control a muy bajo nivel. Los compiladores suelen ofrecer extensiones al lenguaje que posibilitan mezclar código en ensamblador con código C o acceder directamente a memoria o dispositivos periféricos.
